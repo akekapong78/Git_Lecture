@@ -5,4 +5,6 @@ git-demo
 ทดสอบ git pull
 
 ทดสอบ git push
-ทดสอบ git push -u origin master
+ทดสอบ git push -u origin main
+
+
